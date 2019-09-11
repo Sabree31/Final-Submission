@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context=".Marketing">
+
+    <TextView
+        android:id="@+id/bstextView"
+        android:layout_width="match_parent"
+        android:layout_height="89sp"
+        android:layout_gravity="center"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:paddingTop="25sp"
+        android:gravity="center_horizontal"
+        android:background="#CB38A201"
+        android:text="Marketing" />
+
+    <Button
+        android:layout_marginTop="10sp"
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#469E2C"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:text="Images" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/hometextView2"
+            android:layout_marginTop="15sp"
+            android:padding="8sp"
+            android:layout_width="wrap_content"
+            android:layout_height="89dp"
+            android:textColor="#000000"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:paddingTop="25sp"
+            android:text="@string/text" />
+
+    </ScrollView>
+
+</LinearLayout>

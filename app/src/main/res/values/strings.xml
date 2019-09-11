@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">CoU Project</string>
+    <string name="name">Welcome To Comilla University</string>
+
+    <string-array name="item_names">
+
+        <item>Home</item>
+        <item>Faculties and Departments</item>
+        <item>Admission</item>
+        <item>Notice Board</item>
+        <item>Administration</item>
+        <item>Facilities</item>
+        <item>Blogs and Journals</item>
+        <item>About Us</item>
+
+    </string-array>
+
+    <string-array name="Administration">
+
+        <item>Chancellor</item>
+        <item>Vice Chancellor</item>
+        <item>Treasurer</item>
+        <item>Registrar</item>
+
+    </string-array>
+
+    <string-array name="fac_dept">
+
+        <item>Engineering</item>
+        <item>Arts and Humanities</item>
+        <item>Business Studies</item>
+        <item>Social Science</item>
+        <item>Science</item>
+        <item>Law</item>
+
+    </string-array>
+
+    <string-array name="eng_fac">
+
+        <item>ICT</item>
+        <item>CSE</item>
+
+    </string-array>
+
+    <string-array name="ah_fac">
+
+        <item>Bangla</item>
+        <item>English</item>
+
+    </string-array>
+
+    <string-array name="bs_fac">
+
+        <item>Management Studies</item>
+        <item>AIS</item>
+        <item>Marketing</item>
+        <item>Finance and Banking</item>
+
+    </string-array>
+
+    <string-array name="ss_fac">
+
+        <item>Archeology</item>
+        <item>Economics</item>
+        <item>Public Ad</item>
+        <item>Anthropology</item>
+        <item>Mass Communication and Journalism</item>
+
+    </string-array>
+
+    <string-array name="s_fac">
+
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Statistics</item>
+        <item>Pharmacy</item>
+
+    </string-array>
+
+    <string-array name="admission">
+
+        <item>Undergraduate</item>
+        <item>Graduate</item>
+        <item>EMCA</item>
+        <item>EMBA</item>
+
+    </string-array>
+
+    <string-array name="notice_board">
+
+        <item>Career</item>
+        <item>All News and Events</item>
+        <item>All Notices</item>
+
+    </string-array>
+
+    <string-array name="facilities">
+
+        <item>Central Library</item>
+        <item>Residence Hall</item>
+        <item>Transport</item>
+        <item>Cafeteria</item>
+        <item>Post Office</item>
+        <item>Bank</item>
+        <item>Mosque</item>
+        <item>Medical Centre</item>
+        <item>Sports and Culture</item>
+        <item>ICT Cell</item>
+        <item>Guest House</item>
+
+    </string-array>
+
+    <string-array name="about">
+
+        <item>History</item>
+        <item>Future Plan</item>
+        <item>Why CoU is Best</item>
+        <item>At a Glance</item>
+
+    </string-array>
+
+    <string name="text">Contrary to popular belief, Lorem Ipsum is not simply random text.
+        It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+        Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,
+        \n
+        looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+        and going through the cites of the word in classical literature,
+        discovered the undoubtable source.
+        \n
+        \n
+        Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of
+        "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil)
+        by Cicero, written in 45 BC. This book is a treatise on the theory of ethics,
+        very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..",
+        comes from a line in section 1.10.32.
+        \n
+        \n
+
+
+        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
+        Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum"
+        by Cicero are also reproduced in their exact original form,
+        accompanied by English versions from the 1914 translation by H. Rackham.
+        \n
+        \n
+
+
+        Contrary to popular belief, Lorem Ipsum is not simply random text.
+        It has roots in a piece of classical Latin literature from 45 BC,
+        making it over 2000 years old.
+        \n
+        Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,
+        looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+        and going through the cites of the word in classical literature,
+        discovered the undoubtable source.
+        \n
+        \n
+
+
+        Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of
+        "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil)
+        by Cicero, written in 45 BC. This book is a treatise on the theory of ethics,
+        very popular during the Renaissance. The first line of Lorem Ipsum,
+        "Lorem ipsum dolor sit amet..",
+        comes from a line in section 1.10.32.
+        /n
+        /n
+
+
+        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
+        Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum"
+        by Cicero are also reproduced in their exact original form,
+        accompanied by English versions from the 1914 translation by H. Rackham.
+    </string>
+
+    <string name="about_cou">
+
+        Keeping the growing demand of tertiary level education of the people in mind,
+        Comilla University was established in 2006 as the 26th public sector university of Bangladesh.
+        As a result, the untiring effort and wait of the people of this region
+        was over when the announcement of establishing Comilla University came.
+        The people of Cumilla were overjoyed as their concerted effort and demand of a university
+        here for long and their contribution in spreading and nurturing
+        the tradition of exploring knowledge and culture had at last
+        got recognition in the form of the foundation of this university.
+        Comilla University has at last become a milestone in the history of higher education in Bangladesh.
+
+        Set beside the ancient Shalban Bihar,
+        one of the world’s remarkable Bihar at Cumilla,
+        this University is not merely an educational institution,
+        it takes its pride on having a glorified historical significance too.
+        And so its name and fame is soaring up with the passage of time not only in the country but in the world as well.
+        To meet up the great expectations of the country in the field of higher education,
+        the university is moving smoothly on the way of achieving
+        academic excellence and adding its share to the overall development of the country.
+        With its unique academic and administrative set up,
+        the university has already attracted the attention of the scholars
+        from different parts of the country and abroad as well. The teachers,
+        the students and the officers are performing their roles wonderfully
+        to make it a university with an international quality of education and research.
+
+        The university aims at imparting quality education,
+        creating new knowledge and enhancing the critical sensibility of the learners in every possible sense.
+        Logically, it tries to contribute to the intellectual
+        growth of the country and make every effort to provide a harmonious ambience to nourish that intellectuality.
+
+        Come, visit us! You will certainly be happy to enjoy the natural setting of the university
+        along with the scholarly pursuits at our academia
+
+    </string>
+
+    <string name="ict">
+
+        The Department of Information and Communication Technology (ICT)
+        of Comilla University started its incredible journey of 4-years B.Sc.(Engg.)
+        program in 2010. Well ahead in 2014 it started the 1-year M.Sc. (Engg.)
+        program in Information and Communication Technology. Since its inception,
+        the Department is playing a vibrant role in building skilled ICT professional
+        and researchers not only inside Bangladesh but also all over the world.
+        It has overwhelming dominance in ICT-based higher education and research.
+
+        Name of the programs
+        Undergraduate and Graduate
+        Vision
+
+
+        To provide highly qualified, knowledgeable and skilled ICT professionals in the latest state of techniques who will be involved in research, design and development in the national and international arena.
+
+
+        Mission
+
+
+        •To contribute and adhere into the journey of digitization of Bangladesh
+        through interactive teaching learning process and conducting hi-tech research.
+
+        •To innovate technology based new ideas and promote applicable knowledge for the welfare of the nation.
+
+        •To extend the global perception of the sprouting professionals who can
+        take an active role in the technological evolution of the world.
+
+
+        Program objectives
+
+
+        The department is endeavoring the following objectives:
+
+        •International standard of quality education.
+
+        •Correlate technical knowledge with professional ethics.
+
+        •Train-up students in enlightening their inner abilities for problem solving and critical thinking.
+
+    </string>
+</resources>
